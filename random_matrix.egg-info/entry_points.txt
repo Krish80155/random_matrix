@@ -1,0 +1,2 @@
+[console_scripts]
+random-matrix = random_matrix.main:main

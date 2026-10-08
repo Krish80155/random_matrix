@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: random-matrix
+Version: 1.0.0
+Summary: A Matrix-style falling random number terminal animation
+Author: Murali Krishna S
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# Random Matrix
+
+A simple Matrix-style falling random number animation for the terminal.
+
+## Installation
+
+```bash
+pip install random-matrix

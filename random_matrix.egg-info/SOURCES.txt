@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+random_matrix/__init__.py
+random_matrix/main.py
+random_matrix.egg-info/PKG-INFO
+random_matrix.egg-info/SOURCES.txt
+random_matrix.egg-info/dependency_links.txt
+random_matrix.egg-info/entry_points.txt
+random_matrix.egg-info/top_level.txt
